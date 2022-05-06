@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <conio.h>
-#include <math.h>
+#include <stdlib.h>
 int main()
 {
       printf("Can you tell me what PI value is?\n");
